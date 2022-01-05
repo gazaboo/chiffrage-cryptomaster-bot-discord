@@ -1,6 +1,6 @@
 # Projet educatif de chiffrage (niveau L3) 
 
-![cryptoMaster](https://github.com/gazaboo/cryptomaster/blob/main/assets/cryptomaster.png?raw=true)
+<img src="https://github.com/gazaboo/cryptomaster/blob/main/assets/cryptomaster.png?raw=true" size="35%">
 
 Projet de découverte du chiffrage symétrique et asymétrique. Le but est d'arriver à communiquer avec un bot discord qui réagit aux sollicitations sur un serveur. Le bot tourne en local.  
 
