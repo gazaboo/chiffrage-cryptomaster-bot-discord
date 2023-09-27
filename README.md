@@ -12,6 +12,9 @@ Projet de découverte du chiffrage symétrique et asymétrique. Le but est d'arr
 - Recuperer l'URL généréé et la copier dans le navigateur -> ajouter à un serveur
 - Prendre le token du bot et le mettre dans un .env (TOKEN = {{token}})
 
+Gestion des " intents " du Bot (lors de la connexion client) :
+ 
+![Intents](./assets/intents.png)
 
 Tuto --> https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
 
